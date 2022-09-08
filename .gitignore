@@ -1,0 +1,23 @@
+.Rproj.user
+.Rhistory
+.DS_Store
+*_cache/
+*_files/
+*.Rproj
+*.Rdata
+
+## Core latex/pdflatex auxiliary files:
+*.aux
+*.log
+*.out
+*.toc
+*.synctex
+*.synctex(busy)
+*.synctex.gz
+*.synctex.gz(busy)
+*.pdfsync
+*.tex
+*.md
+
+!README.md
+!.github/pull_request_template.md
